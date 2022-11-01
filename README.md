@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardalfzz
+- 👋 Hi, I’m @ardalfz
 - 👀 I’m interested in games, game hacks
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : discord = qrdalfzz#5202
